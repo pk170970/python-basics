@@ -1,0 +1,11 @@
+1|Python data types|done|2.5|list,tuple,dictionary
+2|Functions and scope|active|3|functions,lambda,scope
+3|Generators and decorators|planned|2|generators,decorators
+4|Object oriented design|planned|4|classes,inheritance,composition
+
+
+5|Concurrency models|active|3.5|threads,processes,asyncio
+6|Pydantic validation|done|2|pydantic,validation
+7|Tokenization|planned|1.5|tiktoken,encoding
+8|Tokenization 2|done|0|tiktoken,encoding,swimming
+
